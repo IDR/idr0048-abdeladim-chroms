@@ -67,10 +67,9 @@ def process_line(conn, project, line, link_image, count):
         print(dataset.getName().getValue())
         if link_image:
             for image in dataset.linkedImageList():
-                image_name_space = image.getName().getValue().split(' ')
+                image_name_dot = image.getName().getValue().split('.')
                 length = len(image_name_space)
                 image_ending_right = (image_name_space[length-1] == 'WB')
-                image_name_dot = image.getName().getValue().split('.')
                 if (image_ending_right):
                     link(conn, image, line, link_image)
                     print("Linked attachment %s to image %s" %
