@@ -17,7 +17,7 @@ import omero.clients
 import omero.cli
 from omero_upload import upload_ln_s
 
-project_id = 1303 # 952
+project_id = 1353
 attachment_file = "attachments.txt"    # "/tmp/attachments.txt"
 link_to_image = True
 image_ending_right = False
