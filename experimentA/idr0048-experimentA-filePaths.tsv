@@ -1,2 +1,2 @@
-Dataset:name:Brain	/uod/idr/filesets/idr0048-abdeladim-chroms/20181217-ftp/Astrop65_BDV
-Dataset:name:Brain	/uod/idr/filesets/idr0048-abdeladim-chroms/20191119-ftp/WB.xml
+Project:name:idr0048-abdeladim-chroms/experimentA/Dataset:name:Brain	/uod/idr/filesets/idr0048-abdeladim-chroms/20181217-ftp/Astrop65_BDV	Astrocytes
+Project:name:idr0048-abdeladim-chroms/experimentA/Dataset:name:Brain	/uod/idr/filesets/idr0048-abdeladim-chroms/20191119-ftp/WB.xml	Whole Brain
