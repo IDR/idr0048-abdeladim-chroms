@@ -1,0 +1,108 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.	
+# STUDY DESCRIPTION SECTION					
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details	
+															
+Comment[IDR Study Accession]	idr0048																																
+Study Title	Multicolor multiscale brain imaging with chromatic multiphoton serial microscopy																		
+Study Type	microscopy assay																																
+Study Type Term Source REF	EFO																																
+Study Type Term Accession	EFO_0002909																				
+Study Description	Large-scale microscopy approaches are transforming brain imaging, but currently lack efficient multicolor contrast modalities. We introduce chromatic multiphoton serial (ChroMS) microscopy, a method integrating one‐shot multicolor multiphoton excitation through wavelength mixing and serial block-face image acquisition. This approach provides organ-scale micrometric imaging of spectrally distinct fluorescent proteins and label-free third harmonic generation (THG) / coherent anti-Stokes Raman scattering (CARS) nonlinear  contrasts, with constant micrometer-scale resolution and sub-micron channel registration over the entire imaged volume. We demonstrate tridimensional (3D) multicolor imaging over several cubic millimeters as well as brain-wide serial 2D multichannel imaging. We  illustrate the strengths of this method through color-based 3D analysis of astrocyte morphology and contacts in the mouse cerebral cortex, tracing of densely labeled pyramidal neurons and multiplexed whole-brain mapping of axonal projections labeled with distinct tracers.	
+
+
+Study Key Words	chromatic multiphoton serial microscopy	brain imaging	brainbow
+																		
+Study Organism	Mus musculus																													
+Study Organism Term Source REF	NCBITaxon																															
+Study Organism Term Accession	NCBITaxon_10090																																
+Study Experiments Number	1																													
+Study External URL		
+
+
+Study BioImage Archive Accession																														
+Study Public Release Date					
+																																	
+# Study Publication																																	
+Study PubMed ID	30971684																																
+Study Publication Title	Multicolor multiscale brain imaging with chromatic multiphoton serial microscopy																	
+Study Author List	Abdeladim L, Matho KS, Clavreul S, Mahou P, Sintes J-M, Solinas X, Arganda-Carreras I, Turney SG, Lichtman JW, Chessel A, Bemelmans A-P, Loulier K, Supatto W, Livet J, Beaurepaire E																															
+Study PMC ID	PMC6458155																																
+Study DOI	https://doi.org/10.1038/s41467-019-09552-9		
+																																	
+# Study Contacts																																	
+Study Person Last Name	Abdeladim	Livet	Beaurepaire										
+Study Person First Name Lamiae	Jean	Emmanuel						
+Study Person Email	    lamiae.abdeladim@polytechnique.edu	jean.livet@inserm.fr emmanuel.beaurepaire@polytechnique.edu														
+Study Person Address    Laboratory of Optics and Biosciences, Ecole Polytechnique 91128 Palaiseau, France.	Sorbonne Université Institut de la Vision, INSERM, CNRS, Paris, France	Laboratory of Optics and Biosciences, Ecole Polytechnique 91128 Palaiseau, France.																											
+Study Person ORCID	NA	0000-0003-3079-4908	0000-0002-2082-8214							
+Study Person Roles	submitter	submitter (PI)	submitter (PI)									
+																																	
+# Study License and Data DOI																																	
+Study License	CC-BY-NC 4.0																																
+Study License URL	https://creativecommons.org/licenses/by-nc/4.0/	
+	
+
+Study Copyright	Abdeladim et al																											
+Study Data Publisher	University of Dundee																																
+Study Data DOI					
+																																	
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																													
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/	
+																																	
+# EXPERIMENT SECTION					
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment																					
+Experiment Number	 1																																
+Comment[IDR Experiment Name]	idr0048-abdeladim-chroms/experimentA	
+
+
+Experiment Sample Type	tissue
+															
+Experiment Description	Multicolor brain-wide anatomical mapping and high-resolution continuous multicolor imaging of a >5mm3 cortical portion.  Astrocytes and layer 2/3 neurons are 'Brainbow-labeled'.  The dataset consists of a sequence of 92 high-resolution multicolor 2D whole-brain sections with high-content anatomical details and gives access to single-cell astrocyte morphologies with subcellular resolution over an unprecedented millimetric spatial scale.																		
+Experiment Size	5D Images:	2	Average Image Dimension (XYZCT): 19120 x 13350 x 92 x 3 x 1	Total Tb: 0.25 																													
+Experiment Example Images																																	
+Experiment Imaging Method	multi-photon microscopy																			
+Experiment Imaging Method Term Source REF	Fbbi																				
+Experiment Imaging Method Term Accession	FBbi_00000255																				
+Experiment Comments	Chromatic serial multiphoton microscopy: novel microscopy technique based on the combination of one-shot trichromatic imaging through wavelength-mixing and a block-face acquisition scheme. The method allows to access large volumes of tissue with multicolor contrast and sub-micron channel-registration.																				
+																																	
+# assay files																																	
+Experiment Assay File	idr0048-experimentA-assays																																
+Experiment Assay File Format	tab-delimited text																																
+Assay Experimental Conditions	Transgenic mouse brain imaged at P29.	Electroporated mouse brain (E15) imaged at P65.																														
+Assay Experimental Conditions Term Source REF																																	
+Assay Experimental Conditions Term Accession																																	
+Quality Control Description																															
+																																	
+# Protocols																																	
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																			
+Protocol Description												
+																																	
+# Phenotypes																																	
+Phenotype Name																																	
+Phenotype Description																																
+Phenotype Score Type																																	
+Phenotype Term Source REF	CMPO																																
+Phenotype Term Name																																	
+Phenotype Term Accession																	
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)	 																								
+Feature Level Data File Name																																	
+Feature Level Data File Format																																
+Feature Level Data File Description																																	
+Feature Level Data Column Name																																
+Feature Level Data Column Description		
+
+																																		
+#  Processed Data Files  																																			
+Processed Data File Name																																
+Processed Data File Format	tab-delimited text																				
+Processed Data File Description																																	
+Processed Data Column Name	
+																				
+Processed Data Column Type																														
+Processed Data Column Annotation Level																							
+Processed Data Column Description																															
+Processed Data Column Link To Assay File							
