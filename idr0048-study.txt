@@ -31,9 +31,9 @@ Study DOI	https://doi.org/10.1038/s41467-019-09552-9
 																																	
 # Study Contacts																																	
 Study Person Last Name	Abdeladim	Livet	Beaurepaire										
-Study Person First Name Lamiae	Jean	Emmanuel						
-Study Person Email	    lamiae.abdeladim@polytechnique.edu	jean.livet@inserm.fr emmanuel.beaurepaire@polytechnique.edu														
-Study Person Address    Laboratory of Optics and Biosciences, Ecole Polytechnique 91128 Palaiseau, France.	Sorbonne Université Institut de la Vision, INSERM, CNRS, Paris, France	Laboratory of Optics and Biosciences, Ecole Polytechnique 91128 Palaiseau, France.																											
+Study Person First Name	Lamiae	Jean	Emmanuel						
+Study Person Email	lamiae.abdeladim@polytechnique.edu	jean.livet@inserm.fr	emmanuel.beaurepaire@polytechnique.edu														
+Study Person Address	Laboratory of Optics and Biosciences, Ecole Polytechnique 91128 Palaiseau, France.	Sorbonne Université Institut de la Vision, INSERM, CNRS, Paris, France	Laboratory of Optics and Biosciences, Ecole Polytechnique 91128 Palaiseau, France.																											
 Study Person ORCID	NA	0000-0003-3079-4908	0000-0002-2082-8214							
 Study Person Roles	submitter	submitter (PI)	submitter (PI)									
 																																	
